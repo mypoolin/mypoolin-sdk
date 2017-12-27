@@ -5,6 +5,10 @@
 This repository demonstrates how to integrate Mypoolin's Android SDK.    
 The apk built with code from this repository is published on the [Play Store](https://play.google.com/store/apps/details?id=com.app.mypoolin).
 ----------
+[Website](https://mypoolin.com)
+[Pricing](https://mypoolin.com/api.html)
+[Web Link](https://anaghvj.github.io/mypoolin-android-sdk/)
+
 
 ***
 More Details available on [WIKI](https://github.com/anaghvj/mypoolin-android-sdk/wiki)
