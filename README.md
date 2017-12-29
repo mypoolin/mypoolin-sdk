@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="https://dcv5wf39cuky3.cloudfront.net/favicons/favicon-32x32.png">
+
 # Mypoolin Android SDK
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mypoolin/sdk/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/com.mypoolin/sdk)
 
