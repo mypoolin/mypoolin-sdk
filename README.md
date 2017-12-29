@@ -12,7 +12,7 @@ The apk built with code from this repository is published on the [Play Store](ht
   - [API](https://mypoolin.com/api.html)
   - [Pricing](https://mypoolin.com/pricing)
   - [SDK Page](https://mypoolin.github.io/mypoolin-sdk/)
-  - [WIKI](https://github.com/mypoolin/mypoolin-sdk/wiki)
+  - [SDK Documentation](https://github.com/mypoolin/mypoolin-sdk/wiki)
 
 ***
 More Details available on [WIKI](https://github.com/mypoolin/mypoolin-sdk/wiki)
