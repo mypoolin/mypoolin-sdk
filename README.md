@@ -16,7 +16,7 @@ The apk built with code from this repository is published on the [Play Store](ht
   - [Merchant Dashboard](https://merchants.mypoolin.com/)
  
   - [Website](https://mypoolin.com)
-  - [API](https://mypoolin.com/api.html)
+  - [Our Offerings](https://mypoolin.com/api.html)
   - [Pricing](https://mypoolin.com/pricing)
  
 
