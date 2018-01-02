@@ -13,6 +13,7 @@ The apk built with code from this repository is published on the [Play Store](ht
   - [Integration (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki/Integration)
   - [SDK Documentation](https://github.com/mypoolin/mypoolin-sdk/wiki)
   - [SDK Home Page](https://mypoolin.github.io/mypoolin-sdk/)
+  - [Merchant Dashboard](https://merchants.mypoolin.com/)
  
   - [Website](https://mypoolin.com)
   - [API](https://mypoolin.com/api.html)
