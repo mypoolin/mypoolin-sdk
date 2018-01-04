@@ -4,8 +4,7 @@
 [![Maven metadata URI](https://img.shields.io/maven-metadata/v/http/central.maven.org/maven2/com/mypoolin/sdk/maven-metadata.xml.svg?style=plastic)]()
 
 
-This repository demonstrates how to integrate Mypoolin's Android SDK.    
-The apk built with code from this repository is published on the [Play Store](https://play.google.com/store/apps/details?id=com.app.mypoolin).
+The Mypoolin Developer Documentation is the primary resource for all Mypoolin integration related information.
 
 ----------
 
