@@ -9,15 +9,16 @@ The Mypoolin Developer Documentation is the primary resource for all Mypoolin in
 
 ----------
 
-+ Links
-  - [Integration (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki/Integration)
-  - [SDK Documentation](https://github.com/mypoolin/mypoolin-sdk/wiki)
-  - [SDK Home Page](https://mypoolin.github.io/mypoolin-sdk/)
-  - [Merchant Dashboard](https://merchants.mypoolin.com/)
- 
-  - [Website](https://mypoolin.com)
-  - [Our Offerings](https://mypoolin.com/api.html)
-  - [Pricing](https://mypoolin.com/pricing)
+## Links
+ + SDK
+   - [Integration (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki/Integration)
+   - [Documentation (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki)
+   - [Home Page (Android SDK)](https://mypoolin.github.io/mypoolin-sdk/)
+   - [Merchant Dashboard](https://merchants.mypoolin.com/)
+ + Mypoolin
+   - [Website](https://mypoolin.com)
+   - [Offerings](https://mypoolin.com/api.html)
+   - [Pricing](https://mypoolin.com/pricing)
  
 
 ***
