@@ -22,4 +22,6 @@ The Mypoolin Developer Documentation is the primary resource for all Mypoolin in
  
 
 ***
-More Details available on [WIKI](https://github.com/mypoolin/mypoolin-sdk/wiki) or Contact us [hello@mypoolin.com](mailto:hello@mypoolin.com)
+More Details available on [WIKI](https://github.com/mypoolin/mypoolin-sdk/wiki) 
+or 
+Write us [hello@mypoolin.com](mailto:hello@mypoolin.com)
