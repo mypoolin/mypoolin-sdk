@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/png" href="https://dcv5wf39cuky3.cloudfront.net/favicons/favicon-32x32.png">
 
-# Mypoolin Android SDK
+# Mypoolin SDK
 [![Mypoolin SDK ](https://img.shields.io/badge/sdk-Mypoolin%20SDK-brightgreen.svg?style=flat-square)](https://github.com/mypoolin/mypoolin-sdk/wiki/Integration)
 [![Maven metadata URI](https://img.shields.io/maven-metadata/v/http/central.maven.org/maven2/com/mypoolin/sdk/maven-metadata.xml.svg?style=flat-square)]()
 
