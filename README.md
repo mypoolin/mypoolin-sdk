@@ -15,7 +15,6 @@ This Developer Documentation is the primary resource for all integration related
    - [Documentation (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki)
    - [Home Page (Android SDK)](https://mypoolin.github.io/mypoolin-sdk/)
    - [Merchant Dashboard](https://merchants.mypoolin.com/)
-   - [Wibmo Pay (Payment Gateway)](https://github.com/mypoolin/mypoolin-sdk/wiki/Mypoolin-Payment-Gateway)
  + Generic Related Details
    - [Website](https://mypoolin.com)
    - [Offerings](https://mypoolin.com/api.html)
