@@ -24,4 +24,4 @@ This Developer Documentation is the primary resource for all integration related
 ***
 More Details available on [WIKI](https://github.com/mypoolin/mypoolin-sdk/wiki) 
 or 
-Write us [android@mypoolin.com](mailto:android@wibmopay.com)
+Write us [android@wibmopay.com](mailto:android@wibmopay.com)
