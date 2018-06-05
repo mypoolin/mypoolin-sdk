@@ -1,11 +1,11 @@
 <link rel="shortcut icon" type="image/png" href="https://dcv5wf39cuky3.cloudfront.net/favicons/favicon-32x32.png">
 
-# Mypoolin SDK
-[![Mypoolin SDK ](https://img.shields.io/badge/sdk-Mypoolin%20SDK-brightgreen.svg?style=flat-square)](https://github.com/mypoolin/mypoolin-sdk/wiki/Integration)
+# WibmoPay SDK
+[![WibmoPay SDK ](https://img.shields.io/badge/sdk-Mypoolin%20SDK-brightgreen.svg?style=flat-square)](https://github.com/mypoolin/mypoolin-sdk/wiki/Integration)
 [![Maven metadata URI](https://img.shields.io/maven-metadata/v/http/central.maven.org/maven2/com/mypoolin/sdk/maven-metadata.xml.svg?style=flat-square)]()
 
 
-The Mypoolin Developer Documentation is the primary resource for all Mypoolin integration related information.
+This Developer Documentation is the primary resource for all integration related information.
 
 ----------
 
@@ -16,7 +16,7 @@ The Mypoolin Developer Documentation is the primary resource for all Mypoolin in
    - [Home Page (Android SDK)](https://mypoolin.github.io/mypoolin-sdk/)
    - [Merchant Dashboard](https://merchants.mypoolin.com/)
    - [Wibmo Pay (Payment Gateway)](https://github.com/mypoolin/mypoolin-sdk/wiki/Mypoolin-Payment-Gateway)
- + Mypoolin
+ + Generic Related Details
    - [Website](https://mypoolin.com)
    - [Offerings](https://mypoolin.com/api.html)
    - [Pricing](https://mypoolin.com/pricing)
