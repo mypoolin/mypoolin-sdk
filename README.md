@@ -14,9 +14,9 @@ This Developer Documentation is the primary resource for all integration related
 ----------
 
 ## Links
- + SDK(WibmoPay Payment Gateway)
-   - [Payment Gateway(Wibmo Pay)](https://github.com/mypoolin/mypoolin-sdk/wiki/WibmoPay-Payment-Gateway)
- + SDK (WibmoPay UPI SDK)
+ + SDK (WibmoPay Payment Gateway)
+   - [Payment Gateway (WibmoPay PG SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki/WibmoPay-Payment-Gateway)
+ + SDK (WibmoPay UPI only UPI)
    - [Integration SDK (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki/Integration)
    - [Documentation (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki)
    - [Home Page (Android SDK)](https://mypoolin.github.io/mypoolin-sdk/)
