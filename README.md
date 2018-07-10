@@ -16,14 +16,16 @@ This Developer Documentation is the primary resource for all integration related
 ## Links
  + SDK (WibmoPay Payment Gateway)
    - [Payment Gateway (WibmoPay PG SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki/WibmoPay-Payment-Gateway)
+   - Note that this is the one that you would need to integrate if you are looking for just a very simple way of collecting money from your customers using a payment gateway (including the options of Credit Card, Debit Card, Net banking, UPI and e-wallets). 
  + SDK (WibmoPay UPI only UPI)
+   - Note that this is the one that you would need to integrate if you are looking for creating your own merchant UPI IDs via us and then sending UPI collect requests or P2P requests to your customers. This doesn't include the other payment options as listed above.  
    - [Integration SDK (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki/Integration)
    - [Documentation (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki)
    - [Home Page (Android SDK)](https://mypoolin.github.io/mypoolin-sdk/)
    - [Merchant Dashboard](https://merchants.mypoolin.com/)
  + Generic Related Details
    - [Website](https://mypoolin.com)
-   - [Offerings](https://mypoolin.com/api.html)
+   - [Offerings](https://mypoolin.com/business)
    - [Pricing](https://mypoolin.com/pricing)
  
 
