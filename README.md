@@ -23,11 +23,11 @@ This Developer Documentation is the primary resource for all integration related
    - [Integration SDK (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki/Integration)
    - [Documentation (Android SDK)](https://github.com/mypoolin/mypoolin-sdk/wiki)
    - [Home Page (Android SDK)](https://mypoolin.github.io/mypoolin-sdk/)
-   - [Merchant Dashboard](https://merchants.mypoolin.com/)
+   - [Merchant Dashboard](https://merchants.wibmopay.com/)
  + Generic Related Details
-   - [Website](https://mypoolin.com)
-   - [Offerings](https://mypoolin.com/business)
-   - [Pricing](https://mypoolin.com/pricing)
+   - [Website](https://wibmo.co)
+   - [Offerings](https://www.wibmo.co/emerchants/)
+   - [Pricing](https://www.wibmo.co/explore-pricing/)
  
 
 ***
